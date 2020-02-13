@@ -3,9 +3,9 @@ from threading import Thread
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 
-numberOfBots = 25
+numberOfBots = 8
 baseName = 'Bot'
-gamePin = '635746'
+gamePin = '9925897'
 
 delayBeforeLeaving = 20
 delayBetweenActions = 2.5
